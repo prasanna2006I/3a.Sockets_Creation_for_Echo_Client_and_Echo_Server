@@ -1,6 +1,6 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
-### NAME:PRASANNA I
-### REG NO:212223220079
+# NAME:PRASANNA I
+# REG NO:212223220079
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
