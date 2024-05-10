@@ -12,7 +12,7 @@ Sockets Links.
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
 ### client:
-``.
+```
 import socket
 
 HOST = '127.0.0.1'  
